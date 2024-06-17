@@ -10,4 +10,6 @@ https://www.linkedin.com/in/alex-salgado/
 
 
 Dia 13
-![TDC Workshop](https://github.com/salgado/meetup-python-floripa-2024/foto1.png)
+![TDC Workshop](foto1.png)
+
+
